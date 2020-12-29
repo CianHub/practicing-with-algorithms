@@ -49,5 +49,3 @@ function binarySearchExample(arr, rand) {
 
   return binarySearchExample(newArr, rand);
 }
-
-console.log(binarySearchExample(arr, getRandomNumber(arr)));
